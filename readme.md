@@ -5,25 +5,25 @@ wallpapers presented in AVIF format to work with [zzag's Plasma Dynamic Wallpape
 If something works wrong, please write.
 *All rights to wallpapers belong to their owners and creators*
 - [Mojave](Wallpapers/Mojave.avif)
-    - <img src="Previews/mojave.jpg">
+  <img src="Previews/mojave.jpg">
     - Artist: Apple inc.
     - Size: 5120×2880
     - Type: Solar
  
 - [Fuji](Wallpapers/Fuji.avif)
-    - <img src="Previews/fuji.jpg">
+  <img src="Previews/fuji.jpg">
     - Artist: Max Kulakov (https://t.me/maxkulakov)
     - Size: 5719x3720
     - Type: Solar
 
 - [Big Sur Graphic](Wallpapers/BigSurGraphic.avif)
-    -<img src="Previews/graphic.jpg">
+    <img src="Previews/graphic.jpg">
     - Artist: Apple inc.
     - Size: 6016x6016
     - Type: Day/Night
     
 - [Big Sur](Wallpapers/BigSur.avif)
-    -<img src="Previews/bigsur.jpg">
+    <img src="Previews/bigsur.jpg">
     - Artist: Apple inc.
     - Size: 6016x6016
     - Type: Solar
@@ -35,13 +35,13 @@ If something works wrong, please write.
     - Type: Solar
     
 - [Restaurant](Wallpapers/Restaurant.avif)
-    -<img src="Previews/restaurant.jpg">
+    <img src="Previews/restaurant.jpg">
     - Artist: Copycatken (https://dynamicwallpaper.club/u/Copycatken)
     - Size: 1920×1080
     - Type: Solar
 
 - [House](Wallpapers/House.avif)
-    -<img src="Previews/house.jpg">
+    <img src="Previews/house.jpg">
     - Artist: Copycatken (https://dynamicwallpaper.club/u/Copycatken)
     - Size: 1920×1080
     - Type: Solar    
