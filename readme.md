@@ -2,6 +2,7 @@
 
 ## How-to
 wallpapers presented in AVIF format to work with [zzag's Plasma Dynamic Wallpapers plugin](https://github.com/zzag/plasma5-wallpapers-dynamic). You'll need to install it first and set your location; then, download a wallpaper and add it from wallpaper settings.
+If something works wrong, please write.
 *All rights to wallpapers belong to their owners and creators*
 - [Mojave](Wallpapers/Mojave.avif)
     - <img src="Previews/mojave.jpg">
