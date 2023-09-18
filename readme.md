@@ -22,7 +22,7 @@ If something works wrong, please write.
     - Size: 6016x6016
     - Type: Day/Night
     
-- [Big Sur](Wallpapers/Big Sur.avif)
+- [Big Sur](Wallpapers/BigSur.avif)
     -<img src="Previews/bigsur.jpg">
     - Artist: Apple inc.
     - Size: 6016x6016
